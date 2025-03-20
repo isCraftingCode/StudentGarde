@@ -22,3 +22,18 @@ This project is part of the **Software Maintenance and Evolution** course, where
 - Removed unnecessary files from tracking and added proper `.gitignore` rules.
 - Merged `update-junit` into `main` while resolving conflicts.
 
+
+---
+
+## 🔧 How to Run the Project
+### **1️⃣ Clone the Repository**
+git clone https://github.com/isCraftingCode/StudentGrade.git
+cd StudentGrade
+
+### **2️⃣ Build the Project with Maven**
+mvn clean install
+
+### **2️⃣ Run The Tests**
+mvn test
+
+
